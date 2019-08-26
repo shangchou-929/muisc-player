@@ -2,7 +2,11 @@
 ## 项目说明
 最近写完几个练手的vue项目后，突然对音乐类型的页面感兴趣，所以就挑了我最常用的网易云音乐下手，这个项目应该算是1.0版本的，是PC端网页模拟手机端的页面，是没有用户登录的功能，接下来应该会逐步完善，期待2.0吧   
 
-接口数据参考 [Markdown](http://blog.csdn.net/zhaokaiqiang1992)
+接口数据参考 [网易云音乐 Node.js API service](https://github.com/Binaryify/NeteaseCloudMusicApi)
+
+## 项目运行
+项目的运行必须先运行 node app.js  [网易云音乐 Node.js API service](https://github.com/Binaryify/NeteaseCloudMusicApi)   
+然后npm install、npm run serve即可
 ## 实现功能
 * 推荐歌单
 * 最新音乐
