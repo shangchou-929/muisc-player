@@ -7,7 +7,7 @@
 ## 项目运行
 项目的运行必须和[网易云音乐 Node.js API service](https://github.com/Binaryify/NeteaseCloudMusicApi)搭配运行，也就是要下载到本地，然后运行node app.js    
 
-然后npm install、npm run serve即可
+接下来跟一般的vue项目一样，npm install、npm run serve即可
 ## 实现功能
 * 推荐歌单
 * 最新音乐
