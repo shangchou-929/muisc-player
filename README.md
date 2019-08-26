@@ -13,5 +13,9 @@
 * 专辑详情页（歌手和专辑的详情页需要在搜索结果中点击进入）
 ## 页面展示
 ![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/推荐音乐.png)
+![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/最新音乐.png)
+![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/热歌榜.png)
+![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/搜索页面.png)
+![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/搜索页面.png)![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/搜索页面.png)
 
 
