@@ -5,7 +5,8 @@
 接口数据参考 [网易云音乐 Node.js API service](https://github.com/Binaryify/NeteaseCloudMusicApi)
 
 ## 项目运行
-项目的运行必须先运行 node app.js  [网易云音乐 Node.js API service](https://github.com/Binaryify/NeteaseCloudMusicApi)   
+项目的运行必须和[网易云音乐 Node.js API service](https://github.com/Binaryify/NeteaseCloudMusicApi)搭配运行，也就是要下载到本地，然后运行node app.js    
+
 然后npm install、npm run serve即可
 ## 实现功能
 * 推荐歌单
