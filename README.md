@@ -16,6 +16,13 @@
 ![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/最新音乐.png)
 ![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/热歌榜.png)
 ![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/搜索页面.png)
-![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/搜索页面.png)![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/搜索页面.png)
-
+![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/搜索关键字.png)
+![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/搜索结果.png)
+![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/歌单详情页.png)
+![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/歌单详情页精彩评论.png)
+![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/歌曲详情页-播放器.png)
+![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/歌曲详情页2.png)
+![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/歌曲详情页3.png)
+![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/歌手详情页.png)
+![](https://github.com/shangchou-929/muisc-player/raw/master/music截图/专辑详情页.png)
 
